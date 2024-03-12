@@ -1,2 +1,2 @@
 # learning
-Very first one for learning the basics
+Very first one for learning the basics.
